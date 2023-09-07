@@ -1,0 +1,26 @@
+select {
+  width: 216px;
+  height: 38px;
+  border-radius: 4px;
+  border: 1px solid #ced4da;
+  background: #fff;
+  color: #abb5be;
+  font-family: "Inter";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  padding-left: 15px;
+}
+.label {
+  color: #818182;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+}
+.select{
+  width: 216px;
+  display: flex;
+  flex-direction: column;
+}
